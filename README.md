@@ -1,2 +1,2 @@
-# Exploring-Github
-A repo about my interns plan
+# Counter in JS
+An exploration of Github features
